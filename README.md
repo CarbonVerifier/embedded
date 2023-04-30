@@ -15,4 +15,4 @@ The main controller run the update of the sensors every one seconds and send the
 
 ### Dev environment
 - `PlatformIO` with `VSCode` or other accepted IDE.
-- the code is written in `C++` using `Arduino` framework separated `src` and `include` folders, contains the sensors classes and the main `main.cpp` file.
+- the code is written in `C++` using `Arduino` framework separated `src` and `include` folders, contains the sensors classes and the main `main.cpp` file..
